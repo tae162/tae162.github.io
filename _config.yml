@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "TG's Page"
+title                    : "TG Home"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "TG"
@@ -104,7 +104,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "TG Kim"
+  name             : "TG"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Being myself"
   location         : "Korea"
